@@ -32,7 +32,7 @@ GIT
     xvfb (0.0.1)
 
 GIT
-  remote: https://github.com/fnichol/chef-git
+  remote: https://github.com/chef-cookbooks/git
   ref: master
   sha: 6c19cbefcdad5ec0f62a64dae1f656d660698ea3
   specs:
